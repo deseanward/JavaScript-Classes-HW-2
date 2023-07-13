@@ -1,0 +1,1 @@
+# Static Method And Properties
